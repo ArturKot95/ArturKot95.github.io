@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Balonovo.
+date:   2018-07-24 15:01:35 +0300
+image:  portfolio/balonovo.png
+tags:   React
+---
+Balonovo. To idea, która powstała z pasji przyjaciół i miłości do kreowania magicznych,
+unikalnych i wyjątkowych dekoracji. Marzymy bez ograniczeń, mamy umiejętność widzenia czegoś poza tym, co widzą wszyscy i wprowadzamy nasze pomysły w życie.
+
+### <a class="" href="https://balonovo.pl" target="_blank">https://balonovo.pl</a>

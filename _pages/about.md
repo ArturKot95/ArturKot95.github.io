@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: O mnie 👨🏻‍💻
 permalink: /about/
 image: 01.jpg
 ---

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Inne
+date:   2018-07-05 15:01:35 +0300
+image:  other.jpg
+tags:   other
+---
+Tu kolekcjonuję zdjęcia i opisy projektów, które nie są już dostępne w internecie, jednakowo chciałbym się nimi podzielić. 😊
