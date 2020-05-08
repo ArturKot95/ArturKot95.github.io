@@ -2,12 +2,21 @@
   box-sizing: border-box;
 }
 
+html {
+  // background: #2980B9;  /* fallback for old browsers */
+  // background: -webkit-linear-gradient(to right, #00FFFB, #6DD5FA, #2980B9);  /* Chrome 10-25, Safari 5.1-6 */
+  // background: linear-gradient(to right,#00FFFB, #6DD5FA, #2980B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #fdfbfb;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #fdfbfb, #ebedee);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #fdfbfb, #ebedee); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+
 body {
   font-family: $base-font-family;
   font-size: $base-font-size;
   line-height: $base-line-height;
   color: $text-color;
-  background-color: $background-color;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   input, textarea {
@@ -20,6 +29,10 @@ body {
 			border-color: #34a74e;
 		}
 	}
+}
+
+p {
+  margin-bottom: 30px;
 }
 
 ::placeholder {

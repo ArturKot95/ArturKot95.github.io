@@ -11,16 +11,15 @@ $global-radius: 3px;
 // Transition
 $global-transition: all .35s;
 
-
 // *****************
 // Color Variables
 // *****************
-$brand-color: #009ada;
-$dark: #393e46;
+$brand-color: #cd637b;
+$dark: #231343;
 $gray: #bbbbbb;
 $light-gray: #e6eef0;
 $white: #ffffff;
-$black: #000000;
+$black: #0a0715;
 
 // Background Colors
 $background-color: $white;
@@ -32,7 +31,7 @@ $text-color: $dark;
 $heading-font-color: $dark;
 
 // Links
-$link-color: $brand-color;
+$link-color: #514094;
 $link-color-hover: darken($dark, 15%);
 
 // Button

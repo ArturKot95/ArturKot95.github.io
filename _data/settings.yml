@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
 title: Artur Kot
-logo: logo.svg # You can add own logo.
-description: Witaj w moim zakątku internetu!
+logo: arturkot.png
+description: Witaj!
 
 
 #-------------------------------
@@ -11,16 +11,15 @@ author:
   name: Artur Kot
   image: 01.jpg
   say-hello: Cześć, jestem <strong>Artur</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  bio: >
+    Tworzę strony, gram na klawiszach, uczę się nowych rzeczy. <br>
+    #webdevelopment, #frontend, #javascript❤️
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+linkedin: https://www.linkedin.com/in/artur-kot/
+github: https://github.com/ArturKot95
 
 
 #-------------------------------

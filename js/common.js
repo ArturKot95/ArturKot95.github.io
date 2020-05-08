@@ -98,5 +98,18 @@ $(document).ready(function() {
     }
   });
 
+  /* ========================
+  // Collapsable Portfolio Image
+  =========================*/
+  $('.post__collapsable-image .toggle-button').click(function () {
+    let imageContainer = $(this).closest('.post__collapsable-image');
 
+    if ($(imageContainer).hasClass('opened')) {
+      $(imageContainer).removeClass('opened');
+      $(this).text('Rozwiń');
+    } else {
+      $(imageContainer).addClass('opened');
+      $(this).text('Zwiń');
+    }
+  });
 });

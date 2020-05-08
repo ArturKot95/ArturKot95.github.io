@@ -6,3 +6,15 @@ image:  other.jpg
 tags:   other
 ---
 Tu kolekcjonuję zdjęcia i opisy projektów, które nie są już dostępne w internecie, jednakowo chciałbym się nimi podzielić. 😊
+
+## JobRouter® Roadshow
+#### Landing Page konferencji firmowej
+<ul class="post__ul">
+  <li>Vue</li>
+  <li>Vuetify</li>
+</ul>
+
+<div class="post__collapsable-image">
+  <img src="{{ site.baseurl }}/images/portfolio/roadshow.png" />
+  <button class="toggle-button">Rozwiń</button>
+</div>
