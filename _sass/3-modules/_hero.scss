@@ -14,7 +14,7 @@
     justify-content: center;
     width: 100%;
     padding: 40px;
-    background: rgba(0,0,0,0.2);
+    background: rgba(0,0,0,0.3);
     color: white;
     
     .hero__title {
@@ -39,8 +39,11 @@
   }
 
   .hero__image {
+    background: rgba(0,0,0,0.3);
     img {
       box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+      transform: scale(0.7);
+      border-radius: 4px;
     }
   }
 

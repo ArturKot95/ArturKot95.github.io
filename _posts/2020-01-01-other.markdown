@@ -5,7 +5,7 @@ date:   2018-07-05 15:01:35 +0300
 image:  other.jpg
 tags:   other
 ---
-Tu kolekcjonuję zdjęcia i opisy projektów, które nie są już dostępne w internecie, jednakowo chciałbym się nimi podzielić. 😊
+Archiwum wcześniejszych projektów.
 
 ## JobRouter® Roadshow
 #### Landing Page konferencji firmowej
@@ -13,10 +13,6 @@ Tu kolekcjonuję zdjęcia i opisy projektów, które nie są już dostępne w in
   <li>Vue</li>
   <li>Vuetify</li>
 </ul>
-
-<div class=".image-clearfix">
-![]( {{site.baseurl}}/images/portfolio/roadshow.png )
-</div>
 
 <div class="post__collapsable-image">
   <img src="{{ site.baseurl }}/images/portfolio/roadshow.png" />
@@ -29,10 +25,6 @@ Tu kolekcjonuję zdjęcia i opisy projektów, które nie są już dostępne w in
 <ul class="post__ul">
   <li>Wordpress</li>
 </ul>
-
-<div class=".image-clearfix">
-![]( {{site.baseurl}}/images/portfolio/jobrouter_pl.png )
-</div>
 
 <div class="post__collapsable-image">
   <img src="{{ site.baseurl }}/images/portfolio/jobrouter_pl.png" />
