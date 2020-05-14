@@ -14,7 +14,27 @@ Tu kolekcjonuję zdjęcia i opisy projektów, które nie są już dostępne w in
   <li>Vuetify</li>
 </ul>
 
+<div class=".image-clearfix">
+![]( {{site.baseurl}}/images/portfolio/roadshow.png )
+</div>
+
 <div class="post__collapsable-image">
   <img src="{{ site.baseurl }}/images/portfolio/roadshow.png" />
+  <button class="toggle-button">Rozwiń</button>
+</div>
+
+---
+## JobRouter® (Wordpress)
+#### Poprzednia strona firmowa JobRouter®
+<ul class="post__ul">
+  <li>Wordpress</li>
+</ul>
+
+<div class=".image-clearfix">
+![]( {{site.baseurl}}/images/portfolio/jobrouter_pl.png )
+</div>
+
+<div class="post__collapsable-image">
+  <img src="{{ site.baseurl }}/images/portfolio/jobrouter_pl.png" />
   <button class="toggle-button">Rozwiń</button>
 </div>

@@ -25,6 +25,11 @@
   }
 }
 
+// Clearfix do poprawnego zapisywania obrazków (zdjęcie musi być wyświetlone i schowane na stronie za pomocą Markdown)
+.image-clearfix {
+  display: none;
+}
+
 .post__collapsable-image {
   position: relative;
   max-height: 800px;
